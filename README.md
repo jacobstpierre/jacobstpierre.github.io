@@ -34,7 +34,7 @@ After completeing these steps then we can score and tune the models.
 First run through of the Kaggle Titanic Competition. The goal here is simple, use machine learning to create a model that predicts which passengers survived the Titanic shipwreck. Part of what had initially interested me in this competition, apart from practicing machine leanring techniques and skills, was the opportunity for an indepth exploratory data analysis.
 
 ## [Project 1 - Bicycle Thefts in Toronto](https://github.com/jacobstpierre/Bicycle-Theft-in-Toronto)
-![](bike-thief-cartoon.jpeg | width=100)
+
 
 Capstone Project for York University Into to Big Data Analytics
 
