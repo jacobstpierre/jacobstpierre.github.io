@@ -14,14 +14,11 @@ This problem can be solved by creating a reliable and feasible recommendation al
 As we look at each feature and its relaitionship to our target feature 'Price' we will perform some common steps. For each feature we will:
 - Visualize the count of variables (where applicable)
 - Visualize its relationship to 'Price'
-- Remove outliers, and then visualize the vairiable again (where applicable)
-     - We have eleceted to use this method in our EDA, rather than when we construct our pipeline. This is because we want to visualize and better understand how removing outliers shapes the data. Also, the method of detecting and removing outliers will depend on the feature.
-     - When dealing with outliers we want to preserve as much data as possible. Where possible and when removing outliers by percentile, we will only remove the top 1% of the feature
+- Remove outliers 
 - Make key observations
     - One of these key observations will be regarding the features suitability for our model
     
 ### Model Building
-
 In order to simplify using the models, and to better mimic the real world application of models we wil be constructing pipelines to deploy the model. The pipelines, which will be described in more detail in a later section, will all generally follow the same steps:
 - __Preprocessing__: In order for the data to be usable in models some preprocessing steps will take place. Here we can apply column transformers, dummy encoding, scaling of numerical features, and encoding ordinal features
 - __Feature Selection__: This step will aloow us to perform a streamlines principal companent analysis or a chi2 test to find the most appropriate features for the model
@@ -34,7 +31,7 @@ After completeing these steps then we can score and tune the models.
 First run through of the Kaggle Titanic Competition. The goal here is simple, use machine learning to create a model that predicts which passengers survived the Titanic shipwreck. Part of what had initially interested me in this competition, apart from practicing machine leanring techniques and skills, was the opportunity for an indepth exploratory data analysis.
 
 ## [Project 1 - Bicycle Thefts in Toronto](https://github.com/jacobstpierre/Bicycle-Theft-in-Toronto)
-![](images/bike-theif-cartoon.jpeg)
+![](images/bike_thief_cartoon.jpeg)
 
 Capstone Project for York University Into to Big Data Analytics
 
