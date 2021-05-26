@@ -2,6 +2,7 @@
 ## Data Analytics and Data Science Portoflio
 
 ## [Project 1 - Bicycle Thefts in Toronto](https://github.com/jacobstpierre/Bicycle-Theft-in-Toronto)
+![](/Users/jakestpierre/Desktop/CSDA 1000/bike-thief-cartoon.jpeg)
 Capstone Project for York University Into to Big Data Analytics
 
 This was the first project I completed for the aforementioned course. Working in a team with two other classmates, I took up the task of doing all programming work. I was able to apply my Python knowledge the previous two months I had spent studying and practising Python.
