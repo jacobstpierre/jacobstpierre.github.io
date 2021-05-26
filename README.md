@@ -4,6 +4,7 @@
 I’m interested in the many applications and uses of data analytics and data science. After completing my B.Comm from The University of Guelph in 2015, I've begun learning the skills, techniques, and tools for a career in data analytics. I've completed IBM's Data Analytics Certification on Coursera, and am currently working through the Google Certificion as well. On top of this I'm completing the Certificate in Big Data Anlytics from York University. I'm using this Github page to display projects I've completed in my spare time, as well as projects from York U. I'm currently working on honing my Python skills and apply what I know to using machine learning models.
 
 ## [Prjoect 3 - House Price Prediction](https://github.com/jacobstpierre/Melbourne-Housing-Market)
+### [Projet 3.5 - Clustering Analysis to Predict Overvalued Products](https://github.com/jacobstpierre/Melbourne-Housing-Market/blob/main/Melbourne_Housing_Clustering.ipynb)
 ![](images/melb_house.png)
 ### Project Overview and Problem Statement
 The objective of this project is to answer a 2-part problem statement. Firstly can we provide a reliable and feasible recommendation algorithm to predict the average household price in the given dataset.  Lastly can we visualize the correlation between house features and the price to determine which ones affect price the most?
