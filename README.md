@@ -2,8 +2,8 @@
 ## Data Analytics and Data Science Portoflio
 
 ## [Prjoect 3 - House Price Prediction](https://github.com/jacobstpierre/Melbourne-Housing-Market)
-![](melb_house.png)
-### Project OVerview and Problem Statement
+![](images/melb_house.png)
+### Project Overview and Problem Statement
 The objective of this project is to answer a 2-part problem statement. Firstly can we provide a reliable and feasible recommendation algorithm to predict the average household price in the given dataset.  Lastly can we visualize the correlation between house features and the price to determine which ones affect price the most?
 
 This problem can be solved by creating a reliable and feasible recommendation algorithm to predict the average price of a property in the Melbourne Area. The target value is the data column ‘Price’ within the Melbourne housing market dataset (Melbourne dataset). For predicting the actual price of the house we used the following regression models. 
@@ -34,7 +34,7 @@ After completeing these steps then we can score and tune the models.
 First run through of the Kaggle Titanic Competition. The goal here is simple, use machine learning to create a model that predicts which passengers survived the Titanic shipwreck. Part of what had initially interested me in this competition, apart from practicing machine leanring techniques and skills, was the opportunity for an indepth exploratory data analysis.
 
 ## [Project 1 - Bicycle Thefts in Toronto](https://github.com/jacobstpierre/Bicycle-Theft-in-Toronto)
-
+![](images/bike-theif-cartoon.jpeg)
 
 Capstone Project for York University Into to Big Data Analytics
 
